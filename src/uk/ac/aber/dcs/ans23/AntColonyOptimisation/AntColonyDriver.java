@@ -1,3 +1,4 @@
+package uk.ac.aber.dcs.ans23.AntColonyOptimisation;
 /**
  * Class to drive the ant colony optimization program for a minimimum spanning tree
  * @author Andreas O'Brien Svingeseth (ans23@aber.ac.uk)
